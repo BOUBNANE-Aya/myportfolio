@@ -35,10 +35,8 @@ function ContactForm() {
 
     try {
       setIsLoading(true);
-      const res = await axios.post(
-        `${process.env.NEXT_PUBLIC_APP_URL}/api/contact`,
-        userInput
-      );
+      // post to local Next.js API route
+      const res = await axios.post('/api/contact', userInput);
 
       toast.success("Message sent successfully!");
       setUserInput({

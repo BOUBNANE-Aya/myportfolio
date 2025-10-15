@@ -1,17 +1,18 @@
 export const personalData = {
-  name: "ABU SAID",
-  profile: '/profile.png',
-  designation: "Software Developer",
-  description: "My name is ABU SAID. I am a professional and enthusiastic programmer in my daily life. I am a quick learner with a self-learning attitude. I love to learn and explore new technologies and am passionate about problem-solving. I love almost all the stacks of web application development and love to make the web more open to the world. My core skill is based on JavaScript and I love to do most of the things using JavaScript. I am available for any kind of job opportunity that suits my skills and interests.",
-  email: 'abusaid7388@gmail.com',
-  phone: '+8801608797655',
-  address: 'Middle Badda, Dhaka, Bangladesh - 1212 ',
-  github: 'https://github.com/said7388',
-  facebook: 'https://www.facebook.com/abusaid.riyaz/',
-  linkedIn: 'https://www.linkedin.com/in/abu-said-bd/',
-  twitter: 'https://twitter.com/said7388',
-  stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
-  leetcode: "https://leetcode.com/said3812/",
-  devUsername: "said7388",
-  resume: "https://drive.google.com/file/d/1eyutpKFFhJ9X-qpQGKhUNnVRkB5Wer00/view?usp=sharing"
+  name: "Aya Boubnane",
+  profile: '/profilee.jpg',
+  designation: "Software Dev Engineer",
+  description: "I’m a Software Development Engineer with a passion for crafting seamless, scalable, and intuitive digital experiences. From architecting modern websites to driving SEO growth, I merge logic and creativity to build solutions that don’t just function—but resonate. With a keen eye for detail and a problem-solving mindset, I design and develop applications that are both dynamic and efficient, ensuring smooth user interactions and high-performance systems. My work is a balance between structure and fluidity, where every element contributes to a larger, more meaningful experience. Let’s shape ideas into reality—transforming concepts into digital experiences that leave a lasting impact. 🚀",
+  email: 'ayaboubnane01@gmail.com',
+  phone: '+212 663 199 693',
+  address: 'Casablanca',
+  github: 'https://github.com/BOUBNANE-Aya',
+  linkedIn: 'https://www.linkedin.com/in/aya-boubnane/',
+  discord: 'https://discord.com/users/988039240577335336',
+  instagram: 'https://www.instagram.com/aya.lirabark/',
+  whatsapp: 'https://wa.me/+212663199693',
+
+  // devUsername: "said7388",
+
+  resume: "/pdf/CV Aya.pdf"
 }
